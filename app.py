@@ -10,9 +10,7 @@ app = Flask(__name__)
 @crossdomain(origin='*')
 def hello():
     cells = Cells()
-    print "test"
     return cells.getCells()
-    # return "Hello"
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0')
