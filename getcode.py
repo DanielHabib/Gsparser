@@ -4,7 +4,7 @@ import httplib2
 import json
 import pprint as pp
 import xml.dom.minidom
-from cors_decorator import crossdomain
+
 # The client id and secret can be found on your API Console.
 CLIENT_ID = '459859438108-4jga6shmfe39c62q2gduah09aguii7bn.apps.googleusercontent.com'
 CLIENT_SECRET = '31AtJ3ZKGtXU0xDEJZjnW8ty'
@@ -44,14 +44,4 @@ class Cells:
 
         id ="1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM"
         resp, content = http.request(url, "GET")
-        # print resp
-        # print content
-        test_data = {"test-key":"test-val"}
-        return  json.dumps(test_data)
         return content
-
-        # print ''
-        # xml = xml.dom.minidom.parseString(content)
-        # pretty_xml_as_string = xml.toprettyxml()
-        # # pp.pprint('content: {0}'.format(content))
-        # return pretty_xml_as_string
