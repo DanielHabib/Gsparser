@@ -4,9 +4,10 @@ from getcode import Cells
 from cors_decorator import crossdomain
 
 app = Flask(__name__)
-CORS(app)
+# CORS(app)
 
 @app.route("/")
+@crossdomain(origin='*')
 def hello():
     cells = Cells()
     print "test"
