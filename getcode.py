@@ -4,6 +4,7 @@ import httplib2
 import json
 import pprint as pp
 import xml.dom.minidom
+from cors_decorator import crossdomain
 # The client id and secret can be found on your API Console.
 CLIENT_ID = '459859438108-4jga6shmfe39c62q2gduah09aguii7bn.apps.googleusercontent.com'
 CLIENT_SECRET = '31AtJ3ZKGtXU0xDEJZjnW8ty'
