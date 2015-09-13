@@ -1,0 +1,1840 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+    xmlns='http://www.w3.org/2005/Atom'
+    xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+    xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
+    <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full</id>
+    <updated>2015-09-11T14:51:37.116Z</updated>
+    <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+    <title type='text'>2015</title>
+    <link rel='alternate' type='application/atom+xml' href='https://docs.google.com/a/refinery29.com/spreadsheets/d/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/edit'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full'/>
+    <link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full'/>
+    <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full'/>
+    <author>
+        <name>peter</name>
+        <email>peter@refinery29.com</email>
+    </author>
+    <openSearch:totalResults>65</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cokwr</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Zooey Purdy</title>
+        <content type='text'>role: Product Manager, manager: Frank Conway, startdate: 07-05-2011, tenureinmonths: 51.0, email: zooey@r29.co, mobile: (908) 342-2014, department: Product, squad: Notorious C.A.T, chapter: PO &amp; Agile Coach, birthday: 05-15-2014, gender: F, instagram: zooeypurdy, twitter: https://twitter.com/zooeypurdy, facebook: https://www.facebook.com/zooey.purdy, linkedin: www.linkedin.com/in/zooeypurdy</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cokwr'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cokwr/1ildd0nf2hbmbk'/>
+        <gsx:name>Zooey Purdy</gsx:name>
+        <gsx:role>Product Manager</gsx:role>
+        <gsx:manager>Frank Conway</gsx:manager>
+        <gsx:startdate>07-05-2011</gsx:startdate>
+        <gsx:tenureinmonths>51.0</gsx:tenureinmonths>
+        <gsx:email>zooey@r29.co</gsx:email>
+        <gsx:mobile>(908) 342-2014</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>PO &amp; Agile Coach</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>05-15-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>zooeypurdy</gsx:instagram>
+        <gsx:twitter>https://twitter.com/zooeypurdy</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/zooey.purdy</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/zooeypurdy</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cpzh4</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Ben Wilson</title>
+        <content type='text'>role: Engineering Lead, manager: Peter Wang (temporary; VP Engineering next), startdate: 12-05-2011, tenureinmonths: 45.9, email: ben.wilson@r29.co, mobile: (612) 940-0779, department: Engineering, squad: Intent, chapter: Mobile, birthday: 11-05-2014, gender: M, twitter: https://twitter.com/benmidi, facebook: https://www.facebook.com/benmidi, linkedin: www.linkedin.com/in/benmidi</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cpzh4'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cpzh4/11im36e927i7gg'/>
+        <gsx:name>Ben Wilson</gsx:name>
+        <gsx:role>Engineering Lead</gsx:role>
+        <gsx:manager>Peter Wang (temporary; VP Engineering next)</gsx:manager>
+        <gsx:startdate>12-05-2011</gsx:startdate>
+        <gsx:tenureinmonths>45.9</gsx:tenureinmonths>
+        <gsx:email>ben.wilson@r29.co</gsx:email>
+        <gsx:mobile>(612) 940-0779</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Intent</gsx:squad>
+        <gsx:chapter>Mobile</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>11-05-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter>https://twitter.com/benmidi</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/benmidi</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/benmidi</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cre1l</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Patty Delgado</title>
+        <content type='text'>role: Sr. Front-End Engineer, manager: Peter Wang (temporary; VP Engineering next), startdate: 01-03-2012, tenureinmonths: 44.9, email: patty.delgado@r29.co, mobile: (347) 515-0475, department: Engineering, squad: Intent, chapter: Desktop, birthday: 12-03-2015, gender: F, instagram: pattydelgado, twitter: https://twitter.com/pattydelgado, facebook: https://www.facebook.com/profile.php?id=837727, linkedin: https://www.linkedin.com/pub/patty-delgado/29/386/421</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cre1l'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cre1l/22l9m2blmhdbf1'/>
+        <gsx:name>Patty Delgado</gsx:name>
+        <gsx:role>Sr. Front-End Engineer</gsx:role>
+        <gsx:manager>Peter Wang (temporary; VP Engineering next)</gsx:manager>
+        <gsx:startdate>01-03-2012</gsx:startdate>
+        <gsx:tenureinmonths>44.9</gsx:tenureinmonths>
+        <gsx:email>patty.delgado@r29.co</gsx:email>
+        <gsx:mobile>(347) 515-0475</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Intent</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>12-03-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>pattydelgado</gsx:instagram>
+        <gsx:twitter>https://twitter.com/pattydelgado</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/profile.php?id=837727</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/pub/patty-delgado/29/386/421</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/chk2m</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jake McGraw</title>
+        <content type='text'>role: Director of Platform Engineering, manager: Peter Wang (temporary; VP Engineering next), startdate: 03-19-2012, tenureinmonths: 42.4, email: jake.mcgraw@r29.co, mobile: (212) 729-6608, department: Engineering, squad: Infrastructure, chapter: DevOps, birthday: 01-17-2014, gender: M, instagram: jakemcgraw, twitter: https://twitter.com/jakemcgraw, facebook: https://www.facebook.com/jakemcgraw, linkedin: https://www.linkedin.com/in/jakemcgraw</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/chk2m'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/chk2m/nmim3li8pnaln'/>
+        <gsx:name>Jake McGraw</gsx:name>
+        <gsx:role>Director of Platform Engineering</gsx:role>
+        <gsx:manager>Peter Wang (temporary; VP Engineering next)</gsx:manager>
+        <gsx:startdate>03-19-2012</gsx:startdate>
+        <gsx:tenureinmonths>42.4</gsx:tenureinmonths>
+        <gsx:email>jake.mcgraw@r29.co</gsx:email>
+        <gsx:mobile>(212) 729-6608</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>DevOps</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>01-17-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>jakemcgraw</gsx:instagram>
+        <gsx:twitter>https://twitter.com/jakemcgraw</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/jakemcgraw</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/in/jakemcgraw</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ciyn3</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Sarah Azpeitia</title>
+        <content type='text'>role: UX Designer, manager: Aziz Hasan (temporary; UX Director next), startdate: 07-18-2012, tenureinmonths: 38.4, email: sarah.azpeitia@r29.co, mobile: (504) 491-9401, department: Product, squad: Storytelling, chapter: UX, birthday: 10-11-2015, gender: F, instagram: elegantmenace, twitter: https://twitter.com/sazpeitia, facebook: https://www.facebook.com/sazpeitia, linkedin: www.linkedin.com/pub/sarah-azpeitia/47/26a/8a0</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ciyn3'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ciyn3/37d4d964ah519e'/>
+        <gsx:name>Sarah Azpeitia</gsx:name>
+        <gsx:role>UX Designer</gsx:role>
+        <gsx:manager>Aziz Hasan (temporary; UX Director next)</gsx:manager>
+        <gsx:startdate>07-18-2012</gsx:startdate>
+        <gsx:tenureinmonths>38.4</gsx:tenureinmonths>
+        <gsx:email>sarah.azpeitia@r29.co</gsx:email>
+        <gsx:mobile>(504) 491-9401</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Storytelling</gsx:squad>
+        <gsx:chapter>UX</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>10-11-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>elegantmenace</gsx:instagram>
+        <gsx:twitter>https://twitter.com/sazpeitia</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/sazpeitia</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/sarah-azpeitia/47/26a/8a0</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ckd7g</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Susana Delgadillo</title>
+        <content type='text'>startdate: 07/23/2012, department: Engineering, enddate: 02/27/2015, birthday: January 5th, gender: F, instagram: http://instagram.com/susanasayshi, twitter: https://twitter.com/susanasayshi, facebook: https://www.facebook.com/susana.delgadillo.31?fref=ts, linkedin: https://www.linkedin.com/in/susanacdelgadillo, enddate_2: 2/27/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ckd7g'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ckd7g/1n4ab576ln1knf'/>
+        <gsx:name>Susana Delgadillo</gsx:name>
+        <gsx:role></gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>07/23/2012</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email></gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad></gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate>02/27/2015</gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>January 5th</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/susanasayshi</gsx:instagram>
+        <gsx:twitter>https://twitter.com/susanasayshi</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/susana.delgadillo.31?fref=ts</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/in/susanacdelgadillo</gsx:linkedin>
+        <gsx:enddate_2>2/27/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/clrrx</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Sara Okin</title>
+        <content type='text'>role: Senior Product Manager, manager: Frank Conway, startdate: 10-22-2012, tenureinmonths: 35.2, email: sara.okin@r29.co, mobile: (973) 534-5625, department: Product, squad: Storytelling, chapter: PO &amp; Agile Coach, birthday: 09-07-2014, gender: F, instagram: srokin, facebook: https://www.facebook.com/sara.okin, linkedin: www.linkedin.com/pub/sara-okin/8/522/93</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/clrrx'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/clrrx/3hpjola4cgah12'/>
+        <gsx:name>Sara Okin</gsx:name>
+        <gsx:role>Senior Product Manager</gsx:role>
+        <gsx:manager>Frank Conway</gsx:manager>
+        <gsx:startdate>10-22-2012</gsx:startdate>
+        <gsx:tenureinmonths>35.2</gsx:tenureinmonths>
+        <gsx:email>sara.okin@r29.co</gsx:email>
+        <gsx:mobile>(973) 534-5625</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Storytelling</gsx:squad>
+        <gsx:chapter>PO &amp; Agile Coach</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>09-07-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>srokin</gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/sara.okin</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/sara-okin/8/522/93</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cyevm</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Brittnee Cann</title>
+        <content type='text'>role: QA Manager, manager: Peter Wang (temporary; VP Engineering next), startdate: 12-03-2012, tenureinmonths: 33.8, email: brittnee@r29.co, mobile: (978) 349-8677, department: Engineering, squad: Storytelling, chapter: QA, birthday: 03-11-2015, gender: F, instagram: brittneecann, twitter: https://twitter.com/brittneecann, facebook: https://www.facebook.com/brittnee.cann, linkedin: www.linkedin.com/in/brittneecann</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cyevm'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cyevm/19dhb55l84cfe1'/>
+        <gsx:name>Brittnee Cann</gsx:name>
+        <gsx:role>QA Manager</gsx:role>
+        <gsx:manager>Peter Wang (temporary; VP Engineering next)</gsx:manager>
+        <gsx:startdate>12-03-2012</gsx:startdate>
+        <gsx:tenureinmonths>33.8</gsx:tenureinmonths>
+        <gsx:email>brittnee@r29.co</gsx:email>
+        <gsx:mobile>(978) 349-8677</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytelling</gsx:squad>
+        <gsx:chapter>QA</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>03-11-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>brittneecann</gsx:instagram>
+        <gsx:twitter>https://twitter.com/brittneecann</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/brittnee.cann</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/brittneecann</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cztg3</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Eben Levy</title>
+        <content type='text'>startdate: 02/07/2013, department: Product, birthday: 5/5/2014, linkedin: https://www.linkedin.com/pub/eben-levy/1/94b/857, enddate_2: 12/19/2014</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cztg3'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cztg3/k2bh5cmlhmfe1'/>
+        <gsx:name>Eben Levy</gsx:name>
+        <gsx:role></gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>02/07/2013</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email></gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad></gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>5/5/2014</gsx:birthday>
+        <gsx:gender></gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/pub/eben-levy/1/94b/857</gsx:linkedin>
+        <gsx:enddate_2>12/19/2014</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d180g</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Adam Simon</title>
+        <content type='text'>role: Director of Product, startdate: 05/28/2013, email: adam.simon@r29.co, mobile: 310-701-8627, department: Product, squad: Intent, chapter: N/A, birthday: 12/11/2014, gender: M, instagram: http://instagram.com/adamsimon/, twitter: https://twitter.com/adamjsimon, facebook: https://www.facebook.com/adamjsimon, linkedin: www.linkedin.com/in/asimon, enddate_2: 3/13/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d180g'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d180g/30a57ecfaiead1'/>
+        <gsx:name>Adam Simon</gsx:name>
+        <gsx:role>Director of Product</gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>05/28/2013</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>adam.simon@r29.co</gsx:email>
+        <gsx:mobile>310-701-8627</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Intent</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>12/11/2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>http://instagram.com/adamsimon/</gsx:instagram>
+        <gsx:twitter>https://twitter.com/adamjsimon</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/adamjsimon</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/asimon</gsx:linkedin>
+        <gsx:enddate_2>3/13/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d2mkx</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Axel Esquite</title>
+        <content type='text'>startdate: 05/28/2013, department: Engineering, enddate: 2015, birthday: 7/12/1985, instagram: http://instagram.com/thinkaxelthink, facebook: https://www.facebook.com/thinkaxelthink, linkedin: www.linkedin.com/pub/axel-esquite/7/8b8/279, enddate_2: 1/16/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d2mkx'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d2mkx/1kl6790ngcimjo'/>
+        <gsx:name>Axel Esquite</gsx:name>
+        <gsx:role></gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>05/28/2013</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email></gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad></gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate>2015</gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>7/12/1985</gsx:birthday>
+        <gsx:gender></gsx:gender>
+        <gsx:instagram>http://instagram.com/thinkaxelthink</gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/thinkaxelthink</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/axel-esquite/7/8b8/279</gsx:linkedin>
+        <gsx:enddate_2>1/16/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cssly</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Greg Shakar</title>
+        <content type='text'>role: Engineering Lead, manager: Peter Wang (temporary; VP Engineering next), startdate: 05-28-2013, tenureinmonths: 27.9, email: gregory.shakar@r29.co, mobile: (917) 544-2484, department: Engineering, squad: Notorious C.A.T, chapter: Dash, birthday: 08-05-2014, gender: M, twitter: https://twitter.com/greg2sayshi, facebook: https://www.facebook.com/shakar, linkedin: https://www.linkedin.com/pub/greg-shakar/28/449/5a7</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cssly'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cssly/15kkab871p2p4l'/>
+        <gsx:name>Greg Shakar</gsx:name>
+        <gsx:role>Engineering Lead</gsx:role>
+        <gsx:manager>Peter Wang (temporary; VP Engineering next)</gsx:manager>
+        <gsx:startdate>05-28-2013</gsx:startdate>
+        <gsx:tenureinmonths>27.9</gsx:tenureinmonths>
+        <gsx:email>gregory.shakar@r29.co</gsx:email>
+        <gsx:mobile>(917) 544-2484</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>08-05-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter>https://twitter.com/greg2sayshi</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/shakar</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/pub/greg-shakar/28/449/5a7</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cu76f</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Juan Sanchez</title>
+        <content type='text'>role: Associate Product Manager, startdate: 07/08/2013, email: juan.sanchez@r29.co, department: Product, squad: Engagement, chapter: N/A, birthday: 4/10/2014, gender: M, instagram: http://instagram.com/caballosanchez, twitter: https://twitter.com/lacoladelmico, facebook: juancaballo, linkedin: https://www.linkedin.com/profile/view?id=31331028&amp;authType=NAME_SEARCH&amp;authToken=5ARg&amp;locale=en_US&amp;trk=tyah2&amp;trkInfo=tarId%3A1418770171232%2Ctas%3Ajuan%20sanch%2Cidx%3A1-1-1, enddate_2: 4/16/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cu76f'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cu76f/i633o3l95h051'/>
+        <gsx:name>Juan Sanchez</gsx:name>
+        <gsx:role>Associate Product Manager</gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>07/08/2013</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>juan.sanchez@r29.co</gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Engagement</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>4/10/2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>http://instagram.com/caballosanchez</gsx:instagram>
+        <gsx:twitter>https://twitter.com/lacoladelmico</gsx:twitter>
+        <gsx:facebook>juancaballo</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/profile/view?id=31331028&amp;authType=NAME_SEARCH&amp;authToken=5ARg&amp;locale=en_US&amp;trk=tyah2&amp;trkInfo=tarId%3A1418770171232%2Ctas%3Ajuan%20sanch%2Cidx%3A1-1-1</gsx:linkedin>
+        <gsx:enddate_2>4/16/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cvlqs</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Dan Marsh</title>
+        <content type='text'>role: Front-End Engineer, manager: Greg Shakar, startdate: 07-08-2013, tenureinmonths: 26.5, email: daniel.marsh@r29.co, mobile: (201) 290-6713, department: Engineering, squad: Storytellers, chapter: Dash, birthday: 07-07-2014, gender: M, facebook: https://www.facebook.com/daniel.jp.marsh, linkedin: www.linkedin.com/in/dmarsh</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cvlqs'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cvlqs/449bdca0l8h8a'/>
+        <gsx:name>Dan Marsh</gsx:name>
+        <gsx:role>Front-End Engineer</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate>07-08-2013</gsx:startdate>
+        <gsx:tenureinmonths>26.5</gsx:tenureinmonths>
+        <gsx:email>daniel.marsh@r29.co</gsx:email>
+        <gsx:mobile>(201) 290-6713</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>07-07-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/daniel.jp.marsh</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/dmarsh</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cx0b9</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Peter Wang (Yuchun)</title>
+        <content type='text'>role: CTO, manager: Philippe von Borris, startdate: 11-01-2013, tenureinmonths: 22.7, email: peter@r29.co, mobile: (201) 988-8753, department: Engineering, squad: N/A, chapter: N/A, birthday: 03-13-1982, gender: M, instagram: http://instagram.com/peterpeterwang/, twitter: http://twitter.com/peterpeterwang, facebook: yuchun.p.wang, linkedin: www.linkedin.com/in/yuchunwang</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cx0b9'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/cx0b9/8ifnle2ecfd8j'/>
+        <gsx:name>Peter Wang (Yuchun)</gsx:name>
+        <gsx:role>CTO</gsx:role>
+        <gsx:manager>Philippe von Borris</gsx:manager>
+        <gsx:startdate>11-01-2013</gsx:startdate>
+        <gsx:tenureinmonths>22.7</gsx:tenureinmonths>
+        <gsx:email>peter@r29.co</gsx:email>
+        <gsx:mobile>(201) 988-8753</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>N/A</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>03-13-1982</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>http://instagram.com/peterpeterwang/</gsx:instagram>
+        <gsx:twitter>http://twitter.com/peterpeterwang</gsx:twitter>
+        <gsx:facebook>yuchun.p.wang</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/yuchunwang</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d9ney</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>David Epstein</title>
+        <content type='text'>role: UX Lead, manager: Aziz Hasan (temporary; UX Director next), startdate: 11-18-2013, tenureinmonths: 22.1, email: dave.epstein@r29.co, mobile: (646) 567-7497, department: Product, squad: Betafish, chapter: UX, birthday: 11-15-2014, gender: M, twitter: https://twitter.com/epstein, linkedin: www.linkedin.com/pub/dave-epstein/2a/26/a52</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d9ney'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d9ney/233p9h9j9075h2'/>
+        <gsx:name>David Epstein</gsx:name>
+        <gsx:role>UX Lead</gsx:role>
+        <gsx:manager>Aziz Hasan (temporary; UX Director next)</gsx:manager>
+        <gsx:startdate>11-18-2013</gsx:startdate>
+        <gsx:tenureinmonths>22.1</gsx:tenureinmonths>
+        <gsx:email>dave.epstein@r29.co</gsx:email>
+        <gsx:mobile>(646) 567-7497</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>UX</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>11-15-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter>https://twitter.com/epstein</gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/dave-epstein/2a/26/a52</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/db1zf</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Rachel Shatkin</title>
+        <content type='text'>role: Front-End Engineer, manager: Peter Wang (temporary; Desktop Chapter Lead next), startdate: 02-03-2014, tenureinmonths: 19.5, email: rachel.shatkin@r29.co, mobile: (716) 310-0874, department: Engineering, squad: Disconauts, chapter: Desktop, birthday: 05-21-2014, gender: F, instagram: https://instagram.com/rhinoray29/, twitter: https://twitter.com/ShatkinUp, facebook: https://www.facebook.com/raygogirl, linkedin: www.linkedin.com/in/rshatkin</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/db1zf'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/db1zf/2ajdnol93bdi97'/>
+        <gsx:name>Rachel Shatkin</gsx:name>
+        <gsx:role>Front-End Engineer</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Desktop Chapter Lead next)</gsx:manager>
+        <gsx:startdate>02-03-2014</gsx:startdate>
+        <gsx:tenureinmonths>19.5</gsx:tenureinmonths>
+        <gsx:email>rachel.shatkin@r29.co</gsx:email>
+        <gsx:mobile>(716) 310-0874</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>05-21-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>https://instagram.com/rhinoray29/</gsx:instagram>
+        <gsx:twitter>https://twitter.com/ShatkinUp</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/raygogirl</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/rshatkin</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dcgjs</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jen Calloway</title>
+        <content type='text'>role: Front-End Engineer, manager: Greg Shakar, startdate: 03-10-2014, tenureinmonths: 18.4, email: jennifer.calloway@r29.co, mobile: (360) 471-6483, department: Engineering, squad: Notorious C.A.T, chapter: Dash, birthday: 09-22-2014, gender: F, instagram: http://instagram.com/jennypenny922/, twitter: https://twitter.com/JenCalloway, facebook: https://www.facebook.com/jennypenny4, linkedin: www.linkedin.com/pub/jennifer-calloway/32/66b/846</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dcgjs'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dcgjs/18hlk401i7ngk6'/>
+        <gsx:name>Jen Calloway</gsx:name>
+        <gsx:role>Front-End Engineer</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate>03-10-2014</gsx:startdate>
+        <gsx:tenureinmonths>18.4</gsx:tenureinmonths>
+        <gsx:email>jennifer.calloway@r29.co</gsx:email>
+        <gsx:mobile>(360) 471-6483</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>09-22-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/jennypenny922/</gsx:instagram>
+        <gsx:twitter>https://twitter.com/JenCalloway</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/jennypenny4</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/jennifer-calloway/32/66b/846</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ddv49</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>You Ming Hou</title>
+        <content type='text'>role: Platform Engineer, manager: Matt Miller, startdate: 03-10-2014, tenureinmonths: 18.4, email: ming.hou@r29.co, mobile: (718) 679-7645, department: Engineering, squad: Disconauts, chapter: API, birthday: 07-01-2014, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ddv49'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ddv49/39m23kdh8p91ng'/>
+        <gsx:name>You Ming Hou</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>03-10-2014</gsx:startdate>
+        <gsx:tenureinmonths>18.4</gsx:tenureinmonths>
+        <gsx:email>ming.hou@r29.co</gsx:email>
+        <gsx:mobile>(718) 679-7645</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>07-01-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d415a</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Emily Hengemihle</title>
+        <content type='text'>role: Product Manager, manager: Frank Conway, startdate: 03-24-2014, tenureinmonths: 17.9, email: emily.hengemihle@r29.co, mobile: (410) 852-0419, department: Product, squad: Disconauts, chapter: PO &amp; Agile Coach, birthday: 10-24-2015, gender: F, instagram: hengemee, twitter: https://twitter.com/hengemee, facebook: https://www.facebook.com/emily.hengemihle?fref=ts, linkedin: www.linkedin.com/in/emilyhengemihle</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d415a'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d415a/oak8fpfckfkac'/>
+        <gsx:name>Emily Hengemihle</gsx:name>
+        <gsx:role>Product Manager</gsx:role>
+        <gsx:manager>Frank Conway</gsx:manager>
+        <gsx:startdate>03-24-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.9</gsx:tenureinmonths>
+        <gsx:email>emily.hengemihle@r29.co</gsx:email>
+        <gsx:mobile>(410) 852-0419</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>PO &amp; Agile Coach</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>10-24-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>hengemee</gsx:instagram>
+        <gsx:twitter>https://twitter.com/hengemee</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/emily.hengemihle?fref=ts</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/emilyhengemihle</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d5fpr</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jen Refat</title>
+        <content type='text'>role: Sr. Front-End Engineer, manager: Peter Wang (temporary; Desktop Chapter Lead next), startdate: 03-24-2014, tenureinmonths: 17.9, email: jennifer.refat@r29.co, mobile: (917) 584-2041, department: Engineering, squad: Disconauts, chapter: Desktop, birthday: 11-03-2014, gender: F, instagram: http://instagram.com/craftic_by_jen, twitter: https://twitter.com/mellowbeing, facebook: https://www.facebook.com/jennifer.refat, linkedin: www.linkedin.com/in/jenniferrefat</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d5fpr'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d5fpr/1cjnkngde1no4'/>
+        <gsx:name>Jen Refat</gsx:name>
+        <gsx:role>Sr. Front-End Engineer</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Desktop Chapter Lead next)</gsx:manager>
+        <gsx:startdate>03-24-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.9</gsx:tenureinmonths>
+        <gsx:email>jennifer.refat@r29.co</gsx:email>
+        <gsx:mobile>(917) 584-2041</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>11-03-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/craftic_by_jen</gsx:instagram>
+        <gsx:twitter>https://twitter.com/mellowbeing</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/jennifer.refat</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/jenniferrefat</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d6ua4</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Matt O'Connor</title>
+        <content type='text'>role: Automation Engineer, manager: Brittnee Cann, startdate: 03-31-2014, tenureinmonths: 17.7, email: matthew.oconnor@r29.co, mobile: (917) 763-0352, department: Engineering, squad: Notorious C.A.T, chapter: QA, birthday: 07-27-2014, gender: M, instagram: http://www.instagram.com/ohovercraft, twitter: https://twitter.com/ohovercraft, facebook: https://www.facebook.com/ohovercraft, linkedin: www.linkedin.com/pub/matthew-o-connor/31/1a6/219</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d6ua4'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d6ua4/1jhpcdh1l01181'/>
+        <gsx:name>Matt O'Connor</gsx:name>
+        <gsx:role>Automation Engineer</gsx:role>
+        <gsx:manager>Brittnee Cann</gsx:manager>
+        <gsx:startdate>03-31-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.7</gsx:tenureinmonths>
+        <gsx:email>matthew.oconnor@r29.co</gsx:email>
+        <gsx:mobile>(917) 763-0352</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>QA</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>07-27-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>http://www.instagram.com/ohovercraft</gsx:instagram>
+        <gsx:twitter>https://twitter.com/ohovercraft</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/ohovercraft</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/matthew-o-connor/31/1a6/219</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d88ul</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Israel Farfan</title>
+        <content type='text'>role: Director of DevOps, manager: Jake McGraw, startdate: 03-31-2014, tenureinmonths: 17.7, email: israel.farfan@r29.co, mobile: (917) 518.3351, department: Engineering, squad: Infrastructure, chapter: DevOps, birthday: 08-18-2014, gender: M, linkedin: www.linkedin.com/in/israelfarfan</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d88ul'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/d88ul/30deghdc5gb550'/>
+        <gsx:name>Israel Farfan</gsx:name>
+        <gsx:role>Director of DevOps</gsx:role>
+        <gsx:manager>Jake McGraw</gsx:manager>
+        <gsx:startdate>03-31-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.7</gsx:tenureinmonths>
+        <gsx:email>israel.farfan@r29.co</gsx:email>
+        <gsx:mobile>(917) 518.3351</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>DevOps</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>08-18-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/israelfarfan</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dkvya</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Matthew Miller</title>
+        <content type='text'>role: Engineering Lead, manager: Jake McGraw, startdate: 04-02-2014, tenureinmonths: 17.6, email: matthew.miller@r29.co, mobile: (347) 382-0170, department: Engineering, squad: Disconauts, chapter: API, birthday: 01-20-2014, gender: M, instagram: http://instagram.com/mattmillr, twitter: https://twitter.com/mattmillr, facebook: https://www.facebook.com/mattmillr?fref=ts, linkedin: www.linkedin.com/in/mattmillr</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dkvya'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dkvya/3gi6dgi87jcnii'/>
+        <gsx:name>Matthew Miller</gsx:name>
+        <gsx:role>Engineering Lead</gsx:role>
+        <gsx:manager>Jake McGraw</gsx:manager>
+        <gsx:startdate>04-02-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.6</gsx:tenureinmonths>
+        <gsx:email>matthew.miller@r29.co</gsx:email>
+        <gsx:mobile>(347) 382-0170</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>01-20-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>http://instagram.com/mattmillr</gsx:instagram>
+        <gsx:twitter>https://twitter.com/mattmillr</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/mattmillr?fref=ts</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/mattmillr</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dmair</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Claudia Sosa</title>
+        <content type='text'>role: QA Engineer, Mobile, manager: Brittnee Cann, startdate: 04-14-2014, tenureinmonths: 17.2, email: claudia.sosa@r29.co, mobile: (201) 927-7008, department: Engineering, squad: Disconauts, chapter: QA, birthday: 07-13-2014, gender: F, instagram: http://instagram.com/cloudeeeeee, twitter: n/a, facebook: https://www.facebook.com/claudia.g.sosa, linkedin: www.linkedin.com/pub/claudia-sosa/6/57a/693</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dmair'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dmair/3i7khppn7ein6h'/>
+        <gsx:name>Claudia Sosa</gsx:name>
+        <gsx:role>QA Engineer, Mobile</gsx:role>
+        <gsx:manager>Brittnee Cann</gsx:manager>
+        <gsx:startdate>04-14-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.2</gsx:tenureinmonths>
+        <gsx:email>claudia.sosa@r29.co</gsx:email>
+        <gsx:mobile>(201) 927-7008</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>QA</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>07-13-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/cloudeeeeee</gsx:instagram>
+        <gsx:twitter>n/a</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/claudia.g.sosa</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/claudia-sosa/6/57a/693</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dnp34</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Siddhant Mohalanobish</title>
+        <content type='text'>role: Platform Engineer, Analytics, manager: Peter Wang (temporary; Analytics Engineering Lead next), startdate: 04-21-2014, tenureinmonths: 17.0, email: sid@r29.co, mobile: (347) 849-7431, department: Engineering, squad: A-Team, chapter: Analytics, birthday: 08-07-2014, gender: M, facebook: https://www.facebook.com/siddhant.mohalanobish, linkedin: www.linkedin.com/in/mohalanobish</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dnp34'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dnp34/1ncandm27iedj7'/>
+        <gsx:name>Siddhant Mohalanobish</gsx:name>
+        <gsx:role>Platform Engineer, Analytics</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Analytics Engineering Lead next)</gsx:manager>
+        <gsx:startdate>04-21-2014</gsx:startdate>
+        <gsx:tenureinmonths>17.0</gsx:tenureinmonths>
+        <gsx:email>sid@r29.co</gsx:email>
+        <gsx:mobile>(347) 849-7431</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>A-Team</gsx:squad>
+        <gsx:chapter>Analytics</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>08-07-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/siddhant.mohalanobish</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/mohalanobish</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dp3nl</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Aziz Hasan</title>
+        <content type='text'>role: VP, Product Experience, manager: Peter Wang, startdate: 04-28-2014, tenureinmonths: 16.7, email: aziz.hasan@r29.co, mobile: (917) 767-1011, department: Product, squad: N/A, chapter: N/A, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dp3nl'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dp3nl/20kapapjchlch2'/>
+        <gsx:name>Aziz Hasan</gsx:name>
+        <gsx:role>VP, Product Experience</gsx:role>
+        <gsx:manager>Peter Wang</gsx:manager>
+        <gsx:startdate>04-28-2014</gsx:startdate>
+        <gsx:tenureinmonths>16.7</gsx:tenureinmonths>
+        <gsx:email>aziz.hasan@r29.co</gsx:email>
+        <gsx:mobile>(917) 767-1011</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>N/A</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday></gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/df9om</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Laima Tazmin</title>
+        <content type='text'>role: Platform Engineer, manager: Greg Shakar, startdate: 06-16-2014, tenureinmonths: 15.1, email: laima.tazmin@r29.co, mobile: (917) 569-0249, department: Engineering, squad: Notorious C.A.T, chapter: Dash, birthday: 03-22-2014, gender: F, linkedin: www.linkedin.com/pub/laima-tazmin/17/b9/80</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/df9om'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/df9om/1ga92bn3hn839l'/>
+        <gsx:name>Laima Tazmin</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate>06-16-2014</gsx:startdate>
+        <gsx:tenureinmonths>15.1</gsx:tenureinmonths>
+        <gsx:email>laima.tazmin@r29.co</gsx:email>
+        <gsx:mobile>(917) 569-0249</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>03-22-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/laima-tazmin/17/b9/80</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dgo93</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Bryan Wade</title>
+        <content type='text'>role: Back-End Engineer, startdate: 06/02/2014, email: bryan.wade@r29.co, mobile: 425-408-2636, department: Engineering, squad: Intent, chapter: API, birthday: 9/7/2014, gender: M, facebook: https://www.facebook.com/BCWade, linkedin: www.linkedin.com/in/brcwade, enddate_2: 4/3/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dgo93'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dgo93/e45ddifk736l1'/>
+        <gsx:name>Bryan Wade</gsx:name>
+        <gsx:role>Back-End Engineer</gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>06/02/2014</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>bryan.wade@r29.co</gsx:email>
+        <gsx:mobile>425-408-2636</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Intent</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>9/7/2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/BCWade</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/brcwade</gsx:linkedin>
+        <gsx:enddate_2>4/3/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/di2tg</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Bryant Rockoff</title>
+        <content type='text'>role: DevOps Engineer, manager: Israel Farfan, startdate: 07-07-2014, tenureinmonths: 14.4, email: bryant.rockoff@r29.co, department: Engineering, squad: Infrastructure, chapter: DevOps, birthday: 06-10-2014, gender: M, instagram: rocaroundaworld, twitter: https://twitter.com/rocaroundaworld, facebook: https://www.facebook.com/bryantrockoff, linkedin: www.linkedin.com/in/bryantrockoff</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/di2tg'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/di2tg/1micgje3l9kphp'/>
+        <gsx:name>Bryant Rockoff</gsx:name>
+        <gsx:role>DevOps Engineer</gsx:role>
+        <gsx:manager>Israel Farfan</gsx:manager>
+        <gsx:startdate>07-07-2014</gsx:startdate>
+        <gsx:tenureinmonths>14.4</gsx:tenureinmonths>
+        <gsx:email>bryant.rockoff@r29.co</gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>DevOps</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>06-10-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>rocaroundaworld</gsx:instagram>
+        <gsx:twitter>https://twitter.com/rocaroundaworld</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/bryantrockoff</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/bryantrockoff</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/djhdx</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Amelia Reid</title>
+        <content type='text'>role: Product Marketing Manager, manager: Benish Shah, startdate: 08-25-2014, tenureinmonths: 12.8, email: amelia.reid@r29.co, mobile: (917) 328-6833, department: Product, squad: Product Marketing, chapter: N/A, birthday: 12-24-2014, gender: F, instagram: http://instagram.com/amelia__reid, twitter: https://twitter.com/amelia__reid, facebook: https://www.facebook.com/amelia.l.reid?fref=ts, linkedin: www.linkedin.com/pub/amelia-reid/27/a01/b9</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/djhdx'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/djhdx/22h4fdm4k8515f'/>
+        <gsx:name>Amelia Reid</gsx:name>
+        <gsx:role>Product Marketing Manager</gsx:role>
+        <gsx:manager>Benish Shah</gsx:manager>
+        <gsx:startdate>08-25-2014</gsx:startdate>
+        <gsx:tenureinmonths>12.8</gsx:tenureinmonths>
+        <gsx:email>amelia.reid@r29.co</gsx:email>
+        <gsx:mobile>(917) 328-6833</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Product Marketing</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>12-24-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/amelia__reid</gsx:instagram>
+        <gsx:twitter>https://twitter.com/amelia__reid</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/amelia.l.reid?fref=ts</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/amelia-reid/27/a01/b9</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dw4je</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Emily O'Brien</title>
+        <content type='text'>role: Software Engineer, manager: Peter Wang (temporary; Desktop Chapter Lead next), startdate: 09-01-2014, tenureinmonths: 12.5, email: emily.obrien@r29.co, mobile: (203) 240-8363, department: Engineering, squad: Betafish, chapter: Desktop, birthday: 12-09-2014, gender: F, instagram: emibob, twitter: https://twitter.com/Emily_0Brien, facebook: https://www.facebook.com/izzleOBrien, linkedin: www.linkedin.com/in/emilyblaineobrien</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dw4je'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dw4je/1ipp23hpfc7neg'/>
+        <gsx:name>Emily O'Brien</gsx:name>
+        <gsx:role>Software Engineer</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Desktop Chapter Lead next)</gsx:manager>
+        <gsx:startdate>09-01-2014</gsx:startdate>
+        <gsx:tenureinmonths>12.5</gsx:tenureinmonths>
+        <gsx:email>emily.obrien@r29.co</gsx:email>
+        <gsx:mobile>(203) 240-8363</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>12-09-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>emibob</gsx:instagram>
+        <gsx:twitter>https://twitter.com/Emily_0Brien</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/izzleOBrien</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/emilyblaineobrien</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dxj3v</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Laney Coletti</title>
+        <content type='text'>role: Agile Coach, manager: Peter Wang, startdate: 09-02-2014, tenureinmonths: 12.5, email: laney.coletti@r29.co, mobile: (646) 509-6493, department: Engineering, squad: Storytellers, chapter: PO &amp; Agile Coach, birthday: 09-27-2014, gender: F, instagram: https://twitter.com/laneycoletti, twitter: http://instagram.com/laneycoletti, facebook: https://www.facebook.com/laney.coletti</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dxj3v'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dxj3v/253dgn9ee04mpb'/>
+        <gsx:name>Laney Coletti</gsx:name>
+        <gsx:role>Agile Coach</gsx:role>
+        <gsx:manager>Peter Wang</gsx:manager>
+        <gsx:startdate>09-02-2014</gsx:startdate>
+        <gsx:tenureinmonths>12.5</gsx:tenureinmonths>
+        <gsx:email>laney.coletti@r29.co</gsx:email>
+        <gsx:mobile>(646) 509-6493</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>PO &amp; Agile Coach</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>09-27-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>https://twitter.com/laneycoletti</gsx:instagram>
+        <gsx:twitter>http://instagram.com/laneycoletti</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/laney.coletti</gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dyxo8</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Je Suis Encrateia</title>
+        <content type='text'>role: Senior Front-End Engineer, startdate: 04-14-2014, email: jesuis.encrateia@gmai.com, mobile: (917) 542-1872, department: Engineering, squad: Acquisition, Engagement, chapter: N/A, birthday: 10-11-2014, gender: M, instagram: jesuisvegan, twitter: https://twitter.com/jesuisvegan, facebook: https://www.facebook.com/jesuis.encrateia, linkedin: www.linkedin.com/in/jesuis , enddate_2: 8/14/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dyxo8'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dyxo8/cp7b7hn23pbc3'/>
+        <gsx:name>Je Suis Encrateia</gsx:name>
+        <gsx:role>Senior Front-End Engineer</gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>04-14-2014</gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>jesuis.encrateia@gmai.com</gsx:email>
+        <gsx:mobile>(917) 542-1872</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Acquisition, Engagement</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>10-11-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>jesuisvegan</gsx:instagram>
+        <gsx:twitter>https://twitter.com/jesuisvegan</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/jesuis.encrateia</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/jesuis </gsx:linkedin>
+        <gsx:enddate_2>8/14/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e0c8p</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Luke Gary</title>
+        <content type='text'>startdate: 09-29-2014, tenureinmonths: 348, department: Engineering, enddate: 03-13-2015, birthday: 11-26-2014, facebook: https://www.facebook.com/lukegary, linkedin: www.linkedin.com/in/lukegary, enddate_2: 2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e0c8p'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e0c8p/366ddcjf2ba1hj'/>
+        <gsx:name>Luke Gary</gsx:name>
+        <gsx:role></gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>09-29-2014</gsx:startdate>
+        <gsx:tenureinmonths>348</gsx:tenureinmonths>
+        <gsx:email></gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad></gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate>03-13-2015</gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>11-26-2014</gsx:birthday>
+        <gsx:gender></gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/lukegary</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/lukegary</gsx:linkedin>
+        <gsx:enddate_2>2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dqi9q</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Sarah Meyer</title>
+        <content type='text'>startdate: 10-20-2014, tenureinmonths: 327, department: Engineering, enddate: 07-06-1905, birthday: 08-31-2014, facebook: https://www.facebook.com/sarahsmeyer, enddate_2: 2014</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dqi9q'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dqi9q/3fnih62719hl0n'/>
+        <gsx:name>Sarah Meyer</gsx:name>
+        <gsx:role></gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>10-20-2014</gsx:startdate>
+        <gsx:tenureinmonths>327</gsx:tenureinmonths>
+        <gsx:email></gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad></gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate>07-06-1905</gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>08-31-2014</gsx:birthday>
+        <gsx:gender></gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/sarahsmeyer</gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2>2014</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/drwu7</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Ilana Sufrin</title>
+        <content type='text'>role: Front-End Engineer, manager: Peter Wang (temporary; Desktop Chapter Lead next), startdate: 11-10-2014, tenureinmonths: 10.2, email: ilana.sufrin@r29.co, mobile: (412) 508-8025, department: Engineering, squad: Betafish, chapter: Desktop, birthday: 08-24-2014, gender: F, instagram: http://instagram.com/ilanasufrin, twitter: https://twitter.com/ilanasufrin, facebook: https://www.facebook.com/ilanasufrin, linkedin: https://www.linkedin.com/pub/ilana-sufrin/3a/447/6</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/drwu7'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/drwu7/31bpmngie1e57k'/>
+        <gsx:name>Ilana Sufrin</gsx:name>
+        <gsx:role>Front-End Engineer</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Desktop Chapter Lead next)</gsx:manager>
+        <gsx:startdate>11-10-2014</gsx:startdate>
+        <gsx:tenureinmonths>10.2</gsx:tenureinmonths>
+        <gsx:email>ilana.sufrin@r29.co</gsx:email>
+        <gsx:mobile>(412) 508-8025</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>08-24-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>http://instagram.com/ilanasufrin</gsx:instagram>
+        <gsx:twitter>https://twitter.com/ilanasufrin</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/ilanasufrin</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/pub/ilana-sufrin/3a/447/6</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dtbek</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jingjing Dong</title>
+        <content type='text'>role: Platform Engineer, manager: Matt Miller, startdate: 01-12-2015, tenureinmonths: 8.1, email: jingjing.dong@r29.co, mobile: (917) 663-6769, department: Engineering, squad: Storytellers, chapter: API, source: Recruiter - CPI, birthday: 01-22-2014, gender: F, instagram: https://instagram.com/jingjingdong/, twitter: https://twitter.com/jjingdong, facebook: https://www.facebook.com/jjingd, linkedin: https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dtbek'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dtbek/1o4m9kk9dmol0i'/>
+        <gsx:name>Jingjing Dong</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>01-12-2015</gsx:startdate>
+        <gsx:tenureinmonths>8.1</gsx:tenureinmonths>
+        <gsx:email>jingjing.dong@r29.co</gsx:email>
+        <gsx:mobile>(917) 663-6769</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - CPI</gsx:source>
+        <gsx:birthday>01-22-2014</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>https://instagram.com/jingjingdong/</gsx:instagram>
+        <gsx:twitter>https://twitter.com/jjingdong</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/jjingd</gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dupz1</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>James Cabrera</title>
+        <content type='text'>role: Interface Designer, manager: Aziz Hasan (temporary; UX Director next), startdate: 02-02-2015, tenureinmonths: 7.4, email: james.cabrera@r29.co, mobile: (631) 816-5666, department: Product, squad: Betafish, chapter: UX, source: Referral, birthday: 07-11-2015, gender: M, instagram: @effinjames, twitter: https://twitter.com/jamescabrera, linkedin: www.linkedin.com/in/jamescabrera</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dupz1'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/dupz1/1lijke7m71m4m8'/>
+        <gsx:name>James Cabrera</gsx:name>
+        <gsx:role>Interface Designer</gsx:role>
+        <gsx:manager>Aziz Hasan (temporary; UX Director next)</gsx:manager>
+        <gsx:startdate>02-02-2015</gsx:startdate>
+        <gsx:tenureinmonths>7.4</gsx:tenureinmonths>
+        <gsx:email>james.cabrera@r29.co</gsx:email>
+        <gsx:mobile>(631) 816-5666</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>UX</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday>07-11-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>@effinjames</gsx:instagram>
+        <gsx:twitter>https://twitter.com/jamescabrera</gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/jamescabrera</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e7d2q</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Nicole Pikulin</title>
+        <content type='text'>role: Sr. UX Designer, manager: Aziz Hasan (temporary; UX Director next), startdate: 02-02-2015, tenureinmonths: 7.4, email: nicole.pikulin@r29.co, mobile: (917) 922-3477, department: Product, squad: Disconauts, chapter: UX, source: Referral, birthday: 08-12-2015, gender: F, instagram: https://instagram.com/npikulin/, twitter: https://twitter.com/npenna, facebook: https://www.facebook.com/npenna, linkedin: www.linkedin.com/in/nicolepennapikulin/</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e7d2q'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e7d2q/2i2g750enh77hp'/>
+        <gsx:name>Nicole Pikulin</gsx:name>
+        <gsx:role>Sr. UX Designer</gsx:role>
+        <gsx:manager>Aziz Hasan (temporary; UX Director next)</gsx:manager>
+        <gsx:startdate>02-02-2015</gsx:startdate>
+        <gsx:tenureinmonths>7.4</gsx:tenureinmonths>
+        <gsx:email>nicole.pikulin@r29.co</gsx:email>
+        <gsx:mobile>(917) 922-3477</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>UX</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday>08-12-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram>https://instagram.com/npikulin/</gsx:instagram>
+        <gsx:twitter>https://twitter.com/npenna</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/npenna</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/in/nicolepennapikulin/</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e8rn7</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>John Shankman</title>
+        <content type='text'>role: Front-End Engineer, manager: Ben Wllson, startdate: 02-02-2015, tenureinmonths: 7.4, email: john.shankman@r29.co, mobile: (914) 560.6411, department: Engineering, squad: Storytellers, chapter: Mobile, source: Referral - Travis, birthday: 06-05-1993, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e8rn7'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e8rn7/26h2n396je51jc'/>
+        <gsx:name>John Shankman</gsx:name>
+        <gsx:role>Front-End Engineer</gsx:role>
+        <gsx:manager>Ben Wllson</gsx:manager>
+        <gsx:startdate>02-02-2015</gsx:startdate>
+        <gsx:tenureinmonths>7.4</gsx:tenureinmonths>
+        <gsx:email>john.shankman@r29.co</gsx:email>
+        <gsx:mobile>(914) 560.6411</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>Mobile</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral - Travis</gsx:source>
+        <gsx:birthday>06-05-1993</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ea67k</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Travis Kaufman</title>
+        <content type='text'>role: Sr. Platform Engineer, Mobile, startdate: 03-24-2014, tenureinmonths: 537, email: travis.kaufman@r29.co, mobile: (631) 346-8156, department: Engineering, squad: Analytics, chapter: N/A, birthday: 01-27-2014, gender: M, instagram: traviskaufman, twitter: https://twitter.com/traviskaufman, facebook: https://www.facebook.com/travis.kaufman?fref=ts&amp;ref=br_tf, linkedin: www.linkedin.com/pub/travis-kaufman/30/b6b/ab9, enddate_2: 8/21/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ea67k'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ea67k/3a5cp69ao0hl9c'/>
+        <gsx:name>Travis Kaufman</gsx:name>
+        <gsx:role>Sr. Platform Engineer, Mobile</gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate>03-24-2014</gsx:startdate>
+        <gsx:tenureinmonths>537</gsx:tenureinmonths>
+        <gsx:email>travis.kaufman@r29.co</gsx:email>
+        <gsx:mobile>(631) 346-8156</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Analytics</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>01-27-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram>traviskaufman</gsx:instagram>
+        <gsx:twitter>https://twitter.com/traviskaufman</gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/travis.kaufman?fref=ts&amp;ref=br_tf</gsx:facebook>
+        <gsx:linkedin>www.linkedin.com/pub/travis-kaufman/30/b6b/ab9</gsx:linkedin>
+        <gsx:enddate_2>8/21/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ebks1</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Ryan Catlin</title>
+        <content type='text'>role: Platform Engineer, manager: Matt Miller, startdate: 02-05-2015, tenureinmonths: 7.3, email: ryan.catlin@r29.co, mobile: (503) 858-0769, department: Engineering, squad: Betafish, chapter: API, source: Recruiter - Talener, birthday: 05-28-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ebks1'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ebks1/1lbff6hjhn752n'/>
+        <gsx:name>Ryan Catlin</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>02-05-2015</gsx:startdate>
+        <gsx:tenureinmonths>7.3</gsx:tenureinmonths>
+        <gsx:email>ryan.catlin@r29.co</gsx:email>
+        <gsx:mobile>(503) 858-0769</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - Talener</gsx:source>
+        <gsx:birthday>05-28-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e1qt2</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Cedric Gore</title>
+        <content type='text'>role: QA Engineer, manager: Brittnee Cann, startdate: 02-23-2015, tenureinmonths: 6.7, email: cedric.gore@r29.co, mobile: (646) 937-1663, department: Engineering, squad: Notorious C.A.T, chapter: QA, source: Referral - Brittnee, birthday: 07-24-2015, gender: M, linkedin: https://www.linkedin.com/in/cedricgore</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e1qt2'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e1qt2/2cd1nen3ekg164'/>
+        <gsx:name>Cedric Gore</gsx:name>
+        <gsx:role>QA Engineer</gsx:role>
+        <gsx:manager>Brittnee Cann</gsx:manager>
+        <gsx:startdate>02-23-2015</gsx:startdate>
+        <gsx:tenureinmonths>6.7</gsx:tenureinmonths>
+        <gsx:email>cedric.gore@r29.co</gsx:email>
+        <gsx:mobile>(646) 937-1663</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>QA</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral - Brittnee</gsx:source>
+        <gsx:birthday>07-24-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/in/cedricgore</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e35dj</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Andreas Moller</title>
+        <content type='text'>role: Sr. Platform Engineer (Germany), manager: Alex Ginzburg, startdate: 03-02-2015, tenureinmonths: 6.5, email: andreas.moller@r29.co, department: Engineering, squad: Infrastructure, chapter: Architecture, source: Referral, birthday: 01-12-1976, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e35dj'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e35dj/898k8o46f3h8g'/>
+        <gsx:name>Andreas Moller</gsx:name>
+        <gsx:role>Sr. Platform Engineer (Germany)</gsx:role>
+        <gsx:manager>Alex Ginzburg</gsx:manager>
+        <gsx:startdate>03-02-2015</gsx:startdate>
+        <gsx:tenureinmonths>6.5</gsx:tenureinmonths>
+        <gsx:email>andreas.moller@r29.co</gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>Architecture</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday>01-12-1976</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e4jxw</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Alex Ginzberg</title>
+        <content type='text'>role: Engineering Lead, manager: Jake McGraw, startdate: 03-02-2015, tenureinmonths: 6.5, email: alex.ginzburg@r29.co, mobile: (917) 293-3968, department: Engineering, squad: Infrastructure, chapter: Architecture, source: Recruiter - WinterWyman, birthday: 05-08-2014, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e4jxw'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e4jxw/169e40d9p2k9o3'/>
+        <gsx:name>Alex Ginzberg</gsx:name>
+        <gsx:role>Engineering Lead</gsx:role>
+        <gsx:manager>Jake McGraw</gsx:manager>
+        <gsx:startdate>03-02-2015</gsx:startdate>
+        <gsx:tenureinmonths>6.5</gsx:tenureinmonths>
+        <gsx:email>alex.ginzburg@r29.co</gsx:email>
+        <gsx:mobile>(917) 293-3968</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>Architecture</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - WinterWyman</gsx:source>
+        <gsx:birthday>05-08-2014</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e5yid</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Aaron Bernkopf</title>
+        <content type='text'>role: Data Scientist, manager: Peter Wang (temporary; Analytics Engineering Lead next), startdate: 03-11-2015, tenureinmonths: 6.2, email: Aaron.Bernkopf@r29.co , mobile: (917) 935-1735, department: Engineering, squad: A-Team, chapter: Analytics, source: Recruiter - , birthday: 12-13-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e5yid'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/e5yid/3hnopb9enipb58'/>
+        <gsx:name>Aaron Bernkopf</gsx:name>
+        <gsx:role>Data Scientist</gsx:role>
+        <gsx:manager>Peter Wang (temporary; Analytics Engineering Lead next)</gsx:manager>
+        <gsx:startdate>03-11-2015</gsx:startdate>
+        <gsx:tenureinmonths>6.2</gsx:tenureinmonths>
+        <gsx:email>Aaron.Bernkopf@r29.co </gsx:email>
+        <gsx:mobile>(917) 935-1735</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>A-Team</gsx:squad>
+        <gsx:chapter>Analytics</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - </gsx:source>
+        <gsx:birthday>12-13-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eilm2</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jeffery Vazquez</title>
+        <content type='text'>role: DevOps Engineer, manager: Jake McGraw, startdate: 03-23-2015, tenureinmonths: 5.8, email: jeffrey.vazquez@r29.co , mobile: (347) 530-6272, department: Engineering, squad: Infrastructure, chapter: DevOps, source: Recruiter - Talener, birthday: 02-15-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eilm2'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eilm2/p14fh0i9ofl45'/>
+        <gsx:name>Jeffery Vazquez</gsx:name>
+        <gsx:role>DevOps Engineer</gsx:role>
+        <gsx:manager>Jake McGraw</gsx:manager>
+        <gsx:startdate>03-23-2015</gsx:startdate>
+        <gsx:tenureinmonths>5.8</gsx:tenureinmonths>
+        <gsx:email>jeffrey.vazquez@r29.co </gsx:email>
+        <gsx:mobile>(347) 530-6272</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>DevOps</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - Talener</gsx:source>
+        <gsx:birthday>02-15-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ek06j</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Kayla Daniels</title>
+        <content type='text'>role: Senior Platform Engineer, manager: Matt Miller, startdate: 04-06-2015, tenureinmonths: 5.3, email: kayla.daniels@r29.co, mobile: (719) 659-0736, department: Engineering, squad: Notorious C.A.T, chapter: API, source: Referral, birthday: 10-09-2015, gender: F</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ek06j'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ek06j/2mn4i91njai52c'/>
+        <gsx:name>Kayla Daniels</gsx:name>
+        <gsx:role>Senior Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>04-06-2015</gsx:startdate>
+        <gsx:tenureinmonths>5.3</gsx:tenureinmonths>
+        <gsx:email>kayla.daniels@r29.co</gsx:email>
+        <gsx:mobile>(719) 659-0736</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday>10-09-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eleqw</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Daniel Habib</title>
+        <content type='text'>role: Platform Engineer, manager: Matt Miller, startdate: 04-08-2015, tenureinmonths: 5.2, email: daniel.habib@r29.co , mobile: (908) 812-8365, department: Engineering, squad: Betafish, chapter: API, source: Recruiter - IsPossible, birthday: 07-19-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eleqw'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eleqw/ie1elepbj3dlb'/>
+        <gsx:name>Daniel Habib</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>04-08-2015</gsx:startdate>
+        <gsx:tenureinmonths>5.2</gsx:tenureinmonths>
+        <gsx:email>daniel.habib@r29.co </gsx:email>
+        <gsx:mobile>(908) 812-8365</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - IsPossible</gsx:source>
+        <gsx:birthday>07-19-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/emtbd</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Jennifer Ku</title>
+        <content type='text'>role: Director of Product, manager: Frank Conway, startdate: 04-13-2015, tenureinmonths: 5.1, email: jennifer.ku@r29.co, mobile: (404) 518-7098, department: Product, squad: Betafish, chapter: PO &amp; Agile Coach, source: Referral, gender: F</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/emtbd'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/emtbd/2059c0nl376i12'/>
+        <gsx:name>Jennifer Ku</gsx:name>
+        <gsx:role>Director of Product</gsx:role>
+        <gsx:manager>Frank Conway</gsx:manager>
+        <gsx:startdate>04-13-2015</gsx:startdate>
+        <gsx:tenureinmonths>5.1</gsx:tenureinmonths>
+        <gsx:email>jennifer.ku@r29.co</gsx:email>
+        <gsx:mobile>(404) 518-7098</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Betafish</gsx:squad>
+        <gsx:chapter>PO &amp; Agile Coach</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday></gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eczce</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Gonzalo Andreani</title>
+        <content type='text'>role: Platform Engineer, manager: Greg Shakar, startdate: 04-13-2015, tenureinmonths: 5.1, email: gonzalo.andreani@r29.co , mobile: (516) 776-4161, department: Engineering, squad: Notorious C.A.T, chapter: Dash, source: Recruiter - Hired, birthday: 01-02-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eczce'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eczce/m2p877p471ake'/>
+        <gsx:name>Gonzalo Andreani</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate>04-13-2015</gsx:startdate>
+        <gsx:tenureinmonths>5.1</gsx:tenureinmonths>
+        <gsx:email>gonzalo.andreani@r29.co </gsx:email>
+        <gsx:mobile>(516) 776-4161</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Notorious C.A.T</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - Hired</gsx:source>
+        <gsx:birthday>01-02-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eedwv</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Cara Warner</title>
+        <content type='text'>role: Platform Engineer, manager: Matt Miller, startdate: 04-20-2015, tenureinmonths: 4.8, email: cara.warner@r29.co , mobile: (347) 450-1756 , department: Engineering, squad: Disconauts, chapter: API, source: Referral, birthday: 10-15-1986, gender: F</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eedwv'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eedwv/28o94ick6abdln'/>
+        <gsx:name>Cara Warner</gsx:name>
+        <gsx:role>Platform Engineer</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate>04-20-2015</gsx:startdate>
+        <gsx:tenureinmonths>4.8</gsx:tenureinmonths>
+        <gsx:email>cara.warner@r29.co </gsx:email>
+        <gsx:mobile>(347) 450-1756 </gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral</gsx:source>
+        <gsx:birthday>10-15-1986</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/efsh8</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Frank Conway</title>
+        <content type='text'>role: VP, Product Management, manager: Peter Wang, startdate: 05-11-2015, tenureinmonths: 4.1, email: frank@r29.co , mobile: (973) 568-0046 , department: Engineering, squad: N/A, chapter: N/A, source: Recruiter - Renovata, birthday: 08-29-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/efsh8'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/efsh8/37co6i7jch10kk'/>
+        <gsx:name>Frank Conway</gsx:name>
+        <gsx:role>VP, Product Management</gsx:role>
+        <gsx:manager>Peter Wang</gsx:manager>
+        <gsx:startdate>05-11-2015</gsx:startdate>
+        <gsx:tenureinmonths>4.1</gsx:tenureinmonths>
+        <gsx:email>frank@r29.co </gsx:email>
+        <gsx:mobile>(973) 568-0046 </gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>N/A</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter - Renovata</gsx:source>
+        <gsx:birthday>08-29-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eh71p</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Benish Shah</title>
+        <content type='text'>role: Director, Product Marketing, manager: Aziz Hasan, startdate: 05-20-2015, tenureinmonths: 3.8, email: benish.shah@r29.co, mobile: (631) 838-9796, department: Product, squad: Product Marketing, chapter: N/A, source: Referral - Aziz, birthday: 06-17-1982, gender: F</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eh71p'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eh71p/256k1l9cn7m9j1'/>
+        <gsx:name>Benish Shah</gsx:name>
+        <gsx:role>Director, Product Marketing</gsx:role>
+        <gsx:manager>Aziz Hasan</gsx:manager>
+        <gsx:startdate>05-20-2015</gsx:startdate>
+        <gsx:tenureinmonths>3.8</gsx:tenureinmonths>
+        <gsx:email>benish.shah@r29.co</gsx:email>
+        <gsx:mobile>(631) 838-9796</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Product Marketing</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Referral - Aziz</gsx:source>
+        <gsx:birthday>06-17-1982</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/etu5e</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Christine McNeley</title>
+        <content type='text'>role: Executive Assistant, manager: Peter Wang, startdate: 06-01-2015, tenureinmonths: 3.4, email: christine.mcneley@r29.co, mobile: (857) 928-4188, department: N/A, squad: N/A, chapter: N/A, source: Recruiter, birthday: 09-15-1993, gender: F</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/etu5e'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/etu5e/14jg43boan1gkj'/>
+        <gsx:name>Christine McNeley</gsx:name>
+        <gsx:role>Executive Assistant</gsx:role>
+        <gsx:manager>Peter Wang</gsx:manager>
+        <gsx:startdate>06-01-2015</gsx:startdate>
+        <gsx:tenureinmonths>3.4</gsx:tenureinmonths>
+        <gsx:email>christine.mcneley@r29.co</gsx:email>
+        <gsx:mobile>(857) 928-4188</gsx:mobile>
+        <gsx:department>N/A</gsx:department>
+        <gsx:squad>N/A</gsx:squad>
+        <gsx:chapter>N/A</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source>Recruiter</gsx:source>
+        <gsx:birthday>09-15-1993</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ev8pv</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Carlo Francisco</title>
+        <content type='text'>role: Sr. Front-end Engineer, manager: Ben Wilson, startdate: 08-17-2015, tenureinmonths: 0.9, email: carlo.francisco@r29.co, mobile: 203 300 6697, squad: Storytelling, chapter: Mobile, birthday: 06-25-1989, gender: M, twitter: twitter.com/jcfrancisco, linkedin: https://www.linkedin.com/pub/carlo-francisco/9/39a/359</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ev8pv'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ev8pv/83phff6mi9jc0'/>
+        <gsx:name>Carlo Francisco</gsx:name>
+        <gsx:role>Sr. Front-end Engineer</gsx:role>
+        <gsx:manager>Ben Wilson</gsx:manager>
+        <gsx:startdate>08-17-2015</gsx:startdate>
+        <gsx:tenureinmonths>0.9</gsx:tenureinmonths>
+        <gsx:email>carlo.francisco@r29.co</gsx:email>
+        <gsx:mobile>203 300 6697</gsx:mobile>
+        <gsx:department></gsx:department>
+        <gsx:squad>Storytelling</gsx:squad>
+        <gsx:chapter>Mobile</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>06-25-1989</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter>twitter.com/jcfrancisco</gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin>https://www.linkedin.com/pub/carlo-francisco/9/39a/359</gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ewna8</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Ante Lucic</title>
+        <content type='text'>role: Front-End Engineer (EE), manager: Greg Shakar, email: ante.lucic@r29.co , mobile: 00385913453445, department: Engineering, squad: Storytelling, chapter: Dash, birthday: 05-20-1988, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ewna8'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ewna8/2di8niil040d0c'/>
+        <gsx:name>Ante Lucic</gsx:name>
+        <gsx:role>Front-End Engineer (EE)</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>ante.lucic@r29.co </gsx:email>
+        <gsx:mobile>00385913453445</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytelling</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>05-20-1988</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ey1up</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Irene Lee</title>
+        <content type='text'>role: Sr. Director of Product , email: irene.lee@r29.co , mobile: (408) 608-8200, department: Product, squad: Analytics, birthday: 11-20-2015, gender: F, enddate_2: 8/14/2015</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ey1up'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/ey1up/21m8h9pdd802oe'/>
+        <gsx:name>Irene Lee</gsx:name>
+        <gsx:role>Sr. Director of Product </gsx:role>
+        <gsx:manager></gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>irene.lee@r29.co </gsx:email>
+        <gsx:mobile>(408) 608-8200</gsx:mobile>
+        <gsx:department>Product</gsx:department>
+        <gsx:squad>Analytics</gsx:squad>
+        <gsx:chapter></gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>11-20-2015</gsx:birthday>
+        <gsx:gender>F</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2>8/14/2015</gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eo7vq</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Josip Herceg</title>
+        <content type='text'>role: Front-End Engineer (EE), manager: Greg Shakar, email: josip.herceg@r29.co , department: Engineering, squad: Disconauts, chapter: Dash, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eo7vq'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/eo7vq/2kmofee0e1hkcm'/>
+        <gsx:name>Josip Herceg</gsx:name>
+        <gsx:role>Front-End Engineer (EE)</gsx:role>
+        <gsx:manager>Greg Shakar</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>josip.herceg@r29.co </gsx:email>
+        <gsx:mobile></gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Disconauts</gsx:squad>
+        <gsx:chapter>Dash</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday></gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/epmg7</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Brandon Schlueter</title>
+        <content type='text'>role: DevOps Engineer, manager: Israel Farfan, email: brandon.schlueter@r29.co , mobile: (608) 4325831, department: Engineering, squad: Infrastructure, chapter: DevOps, birthday: 04-16-1998, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/epmg7'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/epmg7/2a0j6kknganm8g'/>
+        <gsx:name>Brandon Schlueter</gsx:name>
+        <gsx:role>DevOps Engineer</gsx:role>
+        <gsx:manager>Israel Farfan</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>brandon.schlueter@r29.co </gsx:email>
+        <gsx:mobile>(608) 4325831</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Infrastructure</gsx:squad>
+        <gsx:chapter>DevOps</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>04-16-1998</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/er10k</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Joel Escobar</title>
+        <content type='text'>role: Systems Architect, manager: Matt Miller, email: joel.escobar@r29.co, mobile: (713) 725-6150, department: Engineering, squad: Storytellers, chapter: API, gender: M, facebook: https://www.facebook.com/joeles</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/er10k'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/er10k/10a02n1ikmipj2'/>
+        <gsx:name>Joel Escobar</gsx:name>
+        <gsx:role>Systems Architect</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>joel.escobar@r29.co</gsx:email>
+        <gsx:mobile>(713) 725-6150</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday></gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook>https://www.facebook.com/joeles</gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/esfl1</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Petar Smolic</title>
+        <content type='text'>role: Platform Engineer (EE), manager: Matt Miller, email: petar.smolic@r29.co , mobile: 00385 95 9075469, department: Engineering, squad: Storytellers, chapter: API, birthday: 05-09-1988, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/esfl1'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/esfl1/2ddpmdk5k5n5ig'/>
+        <gsx:name>Petar Smolic</gsx:name>
+        <gsx:role>Platform Engineer (EE)</gsx:role>
+        <gsx:manager>Matt Miller</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>petar.smolic@r29.co </gsx:email>
+        <gsx:mobile>00385 95 9075469</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>API</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>05-09-1988</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a59y2</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Ivan Bekavac</title>
+        <content type='text'>role: Front-End Engineer (EE), manager: Patty Delgado, email: ivan.bekavac@r29.co , mobile: 00385996969555, department: Engineering, squad: Storytellers, chapter: Desktop, birthday: 05-16-2015, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a59y2'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a59y2/edh5mfecddg19'/>
+        <gsx:name>Ivan Bekavac</gsx:name>
+        <gsx:role>Front-End Engineer (EE)</gsx:role>
+        <gsx:manager>Patty Delgado</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>ivan.bekavac@r29.co </gsx:email>
+        <gsx:mobile>00385996969555</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>05-16-2015</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+    <entry>
+        <id>https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a6oij</id>
+        <updated>2015-09-11T14:51:37.116Z</updated>
+        <category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+        <title type='text'>Zdravko Curic</title>
+        <content type='text'>role: Front-End Engineer (EE), manager: Patty Delgado, email: zdravko.curic@r29.co , mobile: 00385958519329, department: Engineering, squad: Storytellers, chapter: Desktop, birthday: 02-22-1988, gender: M</content>
+        <link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a6oij'/>
+        <link rel='edit' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full/a6oij/2ek7d0n54g3cdb'/>
+        <gsx:name>Zdravko Curic</gsx:name>
+        <gsx:role>Front-End Engineer (EE)</gsx:role>
+        <gsx:manager>Patty Delgado</gsx:manager>
+        <gsx:startdate></gsx:startdate>
+        <gsx:tenureinmonths></gsx:tenureinmonths>
+        <gsx:email>zdravko.curic@r29.co </gsx:email>
+        <gsx:mobile>00385958519329</gsx:mobile>
+        <gsx:department>Engineering</gsx:department>
+        <gsx:squad>Storytellers</gsx:squad>
+        <gsx:chapter>Desktop</gsx:chapter>
+        <gsx:enddate></gsx:enddate>
+        <gsx:source></gsx:source>
+        <gsx:birthday>02-22-1988</gsx:birthday>
+        <gsx:gender>M</gsx:gender>
+        <gsx:instagram></gsx:instagram>
+        <gsx:twitter></gsx:twitter>
+        <gsx:facebook></gsx:facebook>
+        <gsx:linkedin></gsx:linkedin>
+        <gsx:enddate_2></gsx:enddate_2>
+    </entry>
+</feed>
