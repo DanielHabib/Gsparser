@@ -1,7 +1,7 @@
 from flask import Flask
 # from flask.ext.cors import CORS
 from getcode import Cells
-from xml_to_json.py import XTJ
+from xml_to_json import XTJ
 from cors_decorator import crossdomain
 
 app = Flask(__name__)
@@ -13,16 +13,16 @@ def squad():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    return  xtj(xtj.CRITERIA_SQUAD, content)
-
+    tree = xtj(xtj.CRITERIA_SQUAD, content)
+    return tree.render_json()
 @app.route("/chapter")
 @crossdomain(origin='*')
 def chapter():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    return  xtj(xtj.CRITERIA_CHAPTER, content)
-
+    tree =  xtj(xtj.CRITERIA_CHAPTER, content)
+    return tree.render_json()
 
 
 if __name__ == "__main__":
