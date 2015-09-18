@@ -22,8 +22,8 @@ if False:
     # http_get_code = httplib2.Http()
     # code = http_get_code.request(auth_uri, "GET")
 
-if False:
-    code = '4/6pQNiYjIoiD8_i54D1KcemTjTQKDnM9kehV7kSrgn2Y'
+if True:
+    code = '4/iSH1QiN1NuPaVq_u1veqpNLaEPj9JKFSuXov1L5Yn3U'
     credentials = flow.step2_exchange(code)
     print credentials.to_json()
 
@@ -38,7 +38,7 @@ class Cells:
         # url = url + sheet_id
 
         sheet_id ="1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM"
-        access_token = "ya29.7QGaJrTHxXXSkTB4jnHQO6maWIZQUods9a-rDL3S-mPcDWTFrb5fMq0ZiezPAc62XRve"
+        access_token = "ya29.8gEygCSDhi4o5IVHeqgVRINtaH_8zXMJ0-p3iWfwAn6mvOLqh_DUMibBkhxrkYgEou92"
         url = "https://spreadsheets.google.com/feeds/list/1xIwPItf_qYQDzcfwAHx9-a2LNLQpj_pdfq-cO4nAeyM/od6/private/full"
         url = url + "?access_token=" + access_token
 
