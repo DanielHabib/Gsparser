@@ -7,21 +7,22 @@ from cors_decorator import crossdomain
 app = Flask(__name__)
 # CORS(app)
 
-@app.route("/squad")
+@app.route("/squad/")
 @crossdomain(origin='*')
 def squad():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    tree = xtj(xtj.CRITERIA_SQUAD, content)
+    tree = xtj.org_by('squad', content)
     return tree.render_json()
-@app.route("/chapter")
+
+@app.route("/chapter/")
 @crossdomain(origin='*')
 def chapter():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    tree =  xtj(xtj.CRITERIA_CHAPTER, content)
+    tree =  xtj.org_by('chapter', content)
     return tree.render_json()
 
 
