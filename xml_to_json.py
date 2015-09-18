@@ -111,9 +111,16 @@ class TestXTJ(TestCase):
         # print tree
         assert True
 
-    def test_render_json(self):
+    def test_render_json_squad(self):
         xtj = XTJ()
         tree = xtj.org_by('squad', self.data)
+
+        pp.pprint(tree.render_json())
+        assert True
+
+    def test_render_json_chapter(self):
+        xtj = XTJ()
+        tree = xtj.org_by('chapter', self.data)
 
         pp.pprint(tree.render_json())
         assert False

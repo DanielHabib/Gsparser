@@ -9,7 +9,11 @@ class Tree:
         """ Render the JSON of the Element """
         result_dict = {}
         result_dict["result"] = self.root.create_dict()
-        return json.dumps(result_dict)
+        filename = "sample_result.json"
+        target = open(filename, 'w')
+        json_result = json.dumps(result_dict)
+        target.write(json_result)
+        return json_result
 class Node:
     """  """
     def __init__(self, name, desc="desc", children=[], leaf=False):
