@@ -13,7 +13,7 @@ def squad():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    return json_response = xtj(xtj.CRITERIA_SQUAD, content)
+    return  xtj(xtj.CRITERIA_SQUAD, content)
 
 @app.route("/chapter")
 @crossdomain(origin='*')
@@ -21,7 +21,7 @@ def chapter():
     cells = Cells()
     content = cells.getCells()
     xtj = XTJ()
-    return json_response = xtj(xtj.CRITERIA_CHAPTER, content)
+    return  xtj(xtj.CRITERIA_CHAPTER, content)
 
 
 
