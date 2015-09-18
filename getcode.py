@@ -22,7 +22,7 @@ if False:
     # http_get_code = httplib2.Http()
     # code = http_get_code.request(auth_uri, "GET")
 
-if True:
+if False:
     code = '4/iSH1QiN1NuPaVq_u1veqpNLaEPj9JKFSuXov1L5Yn3U'
     credentials = flow.step2_exchange(code)
     print credentials.to_json()
