@@ -38,9 +38,14 @@ class XTJ:
         """
         if criteria not in self.CRITERIA:
             raise BadCriteriaExceptions("Check Your Criteria")
-
-        raw_dict = self.xml_to_dict(xml)
-
+        try:
+            raw_dict = self.xml_to_dict(xml)
+        except:
+            raise Warning("Serving Static File")
+            xml = ""
+            with open ("sample.xml", "r") as myfile:
+                self.data = myfile.read().replace('\n', '')
+            raw_dict = self.xml_to_dict(xml)
         organized_tree = self.create_chart(criteria, raw_dict)
         return organized_tree
 
