@@ -3,7 +3,7 @@ import pprint as pp
 from unittest import TestCase
 
 import xmltodict
-
+import json
 from node import Node, Tree
 
 
@@ -36,15 +36,15 @@ class XTJ:
                     O(Nlog(N)) -> Mergesort
                 4. Convert to JSON
         """
+        raw_dict = {}
         if criteria not in self.CRITERIA:
             raise BadCriteriaExceptions("Check Your Criteria")
+        raw_dict = self.xml_to_dict(xml)
         try:
-            raw_dict = self.xml_to_dict(xml)
+            raw_dict['feed']
         except:
-            raise Warning("Serving Static File")
-            xml = ""
             with open ("sample.xml", "r") as myfile:
-                self.data = myfile.read().replace('\n', '')
+                xml = myfile.read().replace('\n', '')
             raw_dict = self.xml_to_dict(xml)
         organized_tree = self.create_chart(criteria, raw_dict)
         return organized_tree
@@ -58,7 +58,6 @@ class XTJ:
 
         team_dict = {}
         tree = Tree(self.create_root())
-
         for entry in raw_dict['feed']['entry']:
             team = entry[criteria_string]
             name = entry['gsx:name']
@@ -70,7 +69,6 @@ class XTJ:
             else:
                 team_dict[team] = []
                 team_dict[team].append(member)
-
         for team, members in team_dict.iteritems():
             # print team
             # for member in members:
@@ -78,7 +76,6 @@ class XTJ:
             team_node = Node(team, "Associated Team Description")
             team_node.children = members
             tree.root.children.append(team_node)
-
         return tree
 
 
